@@ -1,4 +1,4 @@
-최종 코드 클래스 : miristoryGame21
+최종 코드 클래스 : miristoryGame21                                                                                    
 코드 실행/설명 영상 : https://youtu.be/SC1NeNpL9gg
 
 [프로젝트 설명] 
